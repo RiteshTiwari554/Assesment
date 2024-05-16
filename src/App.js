@@ -2,7 +2,6 @@ import './App.css';
 import Dashboard from './components/Dashboard';
 import AppLayout from './components/AppLayout';
 import { createBrowserRouter, RouterProvider, Outlet } from 'react-router-dom';
-import LeftPanel from './components/LeftPanel';
 
 const routes = [
   {
