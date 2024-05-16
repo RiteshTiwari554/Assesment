@@ -1,0 +1,85 @@
+.applayout{
+    width: 1920px;
+    height: 2197px;
+    background: rgba(241, 241, 241, 1);
+    position: relative;
+    overflow: hidden;
+}
+.analyticsnavbar{
+    position: absolute;
+    width: Hug(281px)px;
+    height: 32px;
+    top: 88px;
+    left: 960px;
+    display: flex;
+    gap: 40px;
+}
+.analyticsship{
+    width: 67px;
+    height: 32px;
+    border-bottom: 3px solid rgba(235, 93, 80, 1)
+
+}
+.analyticsimgship{
+    width: 20px;
+    height: 20px;
+}
+.Shimpmentcontainer{
+    position: absolute;
+    width: Hug (315px)px;
+    height: Hug (72px)px;
+    top: 142px;
+    left: 943px;
+    padding: 16px;
+    display: flex;
+    gap: 44px;
+    border-radius: 10px;
+    background: rgba(255, 255, 255, 1);
+    box-shadow: 0px 4px 8px 0px rgba(16, 16, 16, 0.1);
+
+}
+.frame803a{
+    width: Hug (283px)px;
+    height: Hug (40px)px;
+    display: flex;
+    gap: 40px;
+}
+.frame796a{
+    width: Hug (120px)px;
+    height: Hug (40px)px;
+    padding: 8px 16px 8px 16px;
+    display: flex;
+    gap: 8px;
+    border-radius: 10px;
+    background: rgba(133, 101, 98, 0.2);
+
+}
+.frame798a{
+    width: Hug (123px)px;
+    height: Hug (40px)px;
+    padding: 8px 16px 8px 16px;
+    display: flex;
+    gap: 8px;
+    border-radius: 10px;
+}
+.shipmtxt{
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 24px;
+    text-align: center;
+    color: rgba(133, 101, 98, 1);
+}
+
+.oulettanalytics{
+    position: absolute;
+    width: Hug (1,540px)px;
+    height: Hug (1,944px)px;
+    margin: 0;
+    top: 238px;
+    left: 330px;
+    display: flex;
+    flex-direction: column;
+    gap: 24px;
+    opacity: 0px;
+}

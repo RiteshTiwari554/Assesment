@@ -1,0 +1,59 @@
+.dashboardpanel{
+    width: 1542px;
+    height: 1626px;
+    /* position: relative; */
+    display: flex;
+    flex-direction: column;
+    gap: 24px;
+}
+.bookingstatics{
+    width: Fixed (1,540px)px;
+    height: 128px;
+    top: 88px;
+    left: 330px;
+    display: flex;
+    gap: 40px;
+    opacity: 0px;
+}
+.bookingbox{
+    width: Fill (355px)px;
+    height: Hug (128px)px;
+    padding: 24px;
+    gap: 9px;
+    border-radius: 24px;
+    background: rgba(255, 255, 255, 1);
+    border: 1px solid rgba(236, 236, 236, 1);
+    box-shadow: 0px 4px 8px 0px rgba(16, 16, 16, 0.1);
+}
+.frame662{
+    width: 307px;
+    height: 80px;
+    display: flex;
+    justify-content: space-between;
+}
+.frame661{
+    width: Hug (168px)px;
+    height: Fill (80px)px;
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+    opacity: 0px;
+}
+.frame661txt1{
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 24px;
+    letter-spacing: 0.03em;
+    text-align: left;
+}
+.frame661txt2{
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 36px;
+    letter-spacing: 0.03em;
+    text-align: left;
+}
+.frame316png{
+    width: 80px;
+    height: 80px;
+}

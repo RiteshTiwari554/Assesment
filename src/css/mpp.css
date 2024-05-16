@@ -1,0 +1,108 @@
+.mpp{
+    position: relative;
+    width: 1540px;
+    height: 499px;
+    border-radius: 20px;
+    opacity: 0px;
+    z-index: 1;
+}
+.frame441{
+    position: absolute;
+    width: 155px;
+    height: 26px;
+    top: 20px;
+    left: 20px;
+    padding: 8px 24px 8px 24px;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background: rgba(255, 255, 255, 1);
+}
+.frame441txt{
+    font-family: Poppins;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 21px;
+    text-align: center;
+    color: rgba(53, 53, 53, 1);
+}
+.frame441png{
+    width: 12.24px;
+    height: 12px;
+    gap: 0px;
+    opacity: 0px;
+    rotate: 90 deg;
+
+}
+.mpppng1{
+    position: absolute;
+    top: 112px;
+    left: 573px;
+}
+.mpppng2{
+    position: absolute;
+    top: 168px;
+    left: 630px;
+}
+.mpppng3{
+    position: absolute;
+    top: 145px;
+    left: 677px;
+}
+.mpppng4{
+    position: absolute;
+    top: 168px;
+    left: 696px;
+}
+.mpppng5{
+    position: absolute;
+    top: 231px;
+    left: 674px;
+}
+.frame751{
+    position: absolute;
+    width: Hug (50px)px;
+    height: Hug (148px)px;
+    top: 20px;
+    right: 20px;
+    gap: 9px;
+    opacity: 0px;
+    display: flex;
+    flex-direction: column;
+}
+.shipbox{
+    width: Fixed (50px)px;
+    height: Fixed (50px)px;
+    padding: 8px;
+    gap: 8px;
+    border-radius: 6px;
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+}
+.ship1{
+    background: rgba(235, 93, 80, 1);
+}
+.plane
+{
+    background: rgba(255, 255, 255, 1);
+
+}
+.frame272{
+    position: absolute;
+    width: Hug (36px)px;
+    height: Hug (72px)px;
+    top: 407px;
+    right: 20px;
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+    box-shadow: 0px 0px 4px 0px rgba(16, 16, 16, 0.25);
+}
+.remove{
+    width: Fixed (36px)px;
+    height: Fixed (36px)px;
+    padding: 10px ;
+    gap: 10px;
+    border-radius: 10px;
+    opacity: 0px;
+    background: rgba(255, 255, 255, 1);
+
+}

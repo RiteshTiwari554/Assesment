@@ -1,0 +1,134 @@
+
+.nav{
+    position: relative;
+    z-index: 1;
+    width: 1920px;
+    height: 64px;
+    background: rgba(241, 241, 241, 1);
+  }
+  .line{
+    position: absolute;
+    width: 1920px;
+    height: 0px;
+    top: 64px;
+    gap: 0px;
+    border: 1px 0px 0px 0px;
+    opacity: 0px;
+    rotate: -0 deg;
+    border: 1px solid rgba(217, 217, 217, 1)
+  }
+  .navtitle{
+    position: relative;
+    margin: 0;
+    width: Hug (137px)px;
+    height: Hug (36px)px;
+    top: 14px;
+    left: 330px;
+    gap: 16px;
+    opacity: 0px;
+  }
+.navtitle > h3{
+    width: 137px;
+    margin: 0;
+    height: 36px;
+    font-family: Poppins;
+    font-size: 24px;
+    font-weight: 600;
+    line-height: 36px;
+    text-align: left;
+    color: rgba(53, 53, 53, 1);
+}
+.navrightcontainer{
+    position: absolute;
+    width: 286px;
+    height: Hug (48px)px;
+    top: 8px;
+    left: 1584px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    opacity: 0px;
+}
+.contleftsec{
+  /* position: relative; */
+  width: Hug (225px)px;
+  height: Hug (48px)px;
+  display: flex;
+  gap: 24px;
+}
+.contrightsec{
+    width: 8.24px;
+    height: 14px;
+    rotate: 90 deg;
+    color: rgba(97, 108, 118, 1);
+}
+.ellipse7{
+  position:absolute;
+  top: 12px;
+  left: 14px; 
+  width: 9px;
+height: 9px;
+top: 12px;
+left: 14px;
+border-radius: 5px;
+background: rgba(255, 77, 73, 1);
+border: 1px solid rgba(255, 255, 255, 1);
+z-index: 2;
+
+}
+.notificationsec{
+    position: absolute;
+    z-index: 1;
+    left: 5px;
+    top: 14px;
+}
+.frame592{
+    position: relative;
+    left: 24px;
+    width: Hug (177px)px;
+    height: Hug (48px)px;
+    display: flex;
+    gap: 12px;
+    opacity: 0px;
+}
+.grp267{
+    z-index: 1;
+    width: 48px;
+    height: 48px;
+    /* border: 1px solid rgba(255, 255, 255, 1) */
+}
+.ellipse6{
+    position: absolute;
+    top: 36px;
+    left: 35px;
+
+}
+.frame303{
+    width: Hug (117px)px;
+    height: 43px;
+    gap: 4px;
+    display: flex;
+    flex-direction: column;
+
+}
+.name{
+    margin: 0;
+    width: 117px;
+    height: 21px;
+    font-size: 14px;
+    line-height: 21px;
+    letter-spacing: 0.03em;
+}
+.post{
+    margin: 0;
+    width: 42px;
+    height: 18px;
+    font-size: 12px;
+    font-weight: 500;
+    line-height: 18px;
+    letter-spacing: 0.03em;
+}
+
+
+  
+  

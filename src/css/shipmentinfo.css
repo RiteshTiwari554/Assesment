@@ -1,0 +1,250 @@
+.shipmentinfo{
+    position: relative;
+    width:1492px;
+    height: 685px;
+    display: flex;
+    flex-direction: column;
+    padding: 24px;
+    gap: 24px;
+    border-radius: 24px;
+    opacity: 0px;
+    background: rgba(255, 255, 255, 1);
+    border: 1px solid rgba(236, 236, 236, 1);
+    box-shadow: 0px 4px 8px 0px rgba(16, 16, 16, 0.1);
+    overflow: hidden;
+}
+.fr672s{
+    position: absolute;
+    top: 24px;
+    right: 24px;
+    width: 106px;
+    height: 21px;
+    padding: 10.5px 24px 10.5px 24px;
+    display: flex;
+    gap: 10px;
+    border-radius: 30px;
+    background: rgba(235, 93, 80, 1);
+}
+.fr672simg{
+    width: 24px;
+    height: 24px;
+}
+.fr672sdown{
+    font-family: Poppins;
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 21px;
+    text-align: left;
+    color: rgba(255, 255, 255, 1);
+}
+.shipment-details{
+    width: Hug (2,424.5px)px;
+    height: Hug (540px)px;
+    border-radius: 10px 10px 0px 0px;
+    display: flex;
+    gap: 0px;
+    opacity: 0px;
+    background: rgba(255, 255, 255, 1);
+    position: absolute;
+    top: 90px;
+    left: 24px;
+}
+.fr366{
+    width: 186.5px;
+    height: Hug (540px)px;
+    display: flex;
+    flex-direction: column;
+    gap: 0px;
+    opacity: 0px;
+}
+.fr106{
+    width: 186.5px;
+    height: Fixed (40px)px;
+    padding: 10px;
+    display: flex;
+    justify-content: start;
+    gap: 24px;
+    border: 0px 0px 1px 0px;
+    background: rgba(241, 241, 241, 1);
+}
+.fr106txt{
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 24px;
+    text-align: start;
+    color: rgba(82, 71, 70, 1);
+}
+.fr107{
+    width: 186.5px;
+    height: 26px;
+    padding: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: start;
+    gap: 10px;
+    border-bottom: 1px solid rgba(217, 217, 217, 1)
+
+}
+.fr107txt{
+    font-family: Inter;
+font-size: 14px;
+font-weight: 400;
+line-height: 16.94px;
+text-align: left;
+color: rgba(53, 53, 53, 1);
+
+
+}
+.t1tt{
+ font-family: Poppins;
+font-size: 14px;
+font-weight: 500;
+line-height: 21px;
+text-align: left;
+color: rgba(53, 53, 53, 1);
+}
+.kkt{
+    font-family: Inter;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 16.94px;
+    text-align: left;
+}
+.shipscrlbtn{
+    height: 10px;
+    width: 1492px;
+    gap: 0px;
+    border-radius: 10px;
+    opacity: 0px;
+    rotate: -90 deg;
+    position: absolute; 
+    top: 640px;
+    left: 24px;
+}
+.rect161{
+    height: 10px;
+    width: 1492px;
+    border-radius: 10px;
+    rotate: -90 deg;
+    background: rgba(241, 241, 241, 1);
+    box-shadow: 0px 4px 8px 0px rgba(0, 0, 0, 0.25) inset;
+}
+.rect162{
+    position: relative;
+    left: 39.6px;
+    top: 0px;
+    height: 10px;
+    width: 312.67px;
+    border-radius: 10px;
+    rotate: -90 deg;
+    background: rgba(133, 101, 98, 1);
+}
+.frame669{
+    position: absolute;
+    top: 676px;
+    left: 24px;
+    width: 1492px;
+    height: 42px;
+    gap: 0px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    opacity: 0px;
+}
+.fr677{
+    width: Fixed (692.9px)px;
+    height: Hug (42px)px;
+    display: flex;
+    align-items: center;
+    gap: 16px;
+}
+.fr498{
+    width: Hug (275.2px)px;
+    height: Hug (30px)px;
+    display: flex;
+    align-items: center;
+    gap: 26px;
+}
+.fr642{
+    width: 95px;
+    height: 26px;
+    padding: 8px 16px 8px 16px;
+    border-radius: 6px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border: 1px solid rgba(217, 217, 217, 1);
+}
+.fr677txt{
+    font-family: Poppins;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 21px;
+    text-align: left;
+    color: rgba(150, 149, 150, 1);
+}
+.fr642txt{
+    font-family: Poppins;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 21px;
+    text-align: center;
+    color: rgba(53, 53, 53, 1);
+}
+.fr642img{
+    gap: 0px;
+    opacity: 0px;
+    rotate: 90 deg;
+    color:  rgba(82, 71, 70, 1);
+}
+.fr498imgleft{
+    width: 10.6px;
+    height: 18px;
+    gap: 0px;
+    opacity: 0px;
+    rotate: -0 deg;
+    color: rgba(217, 217, 217, 1);
+}
+.frame497{
+    width: Hug (202px)px;
+    height: Hug (30px)px;
+    display: flex;
+    gap: 8px;
+}
+.fr491{
+    width: Fixed (34px)px;
+    height: Fixed (30px)px;
+    padding: 4px 10px 4px 10px;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    border-radius: 5px;
+    background: rgba(82, 71, 70, 1);
+}
+.fr491txt{
+    font-family: Poppins;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 21px;
+    text-align: left;
+    color: rgba(255, 255, 255, 1);
+}
+.fr492{
+    width: Fixed (34px)px;
+    height: Fixed (30px)px;
+    padding: 4px 10px 4px 10px;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    border-radius: 5px;
+    border: 1px solid rgba(217, 217, 217, 1); 
+}
+.fr492txt{
+    font-family: Poppins;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 21px;
+    text-align: left;
+    color: rgba(53, 53, 53, 1);
+}

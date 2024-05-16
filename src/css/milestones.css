@@ -1,0 +1,126 @@
+.milestones{
+    width: Fixed (1,540px)px;
+    height: 340px;
+    display: flex;
+    gap: 24px;
+    opacity: 0px;
+    position: relative;
+}
+.milestonesbox{
+    width: Fill (758px)px;
+    height: Fixed (340px)px;
+    padding: 24px;
+    display: flex;
+    flex-direction: column;
+    gap: 24px;
+    border-radius: 24px;
+    background: rgba(255, 255, 255, 1);
+    box-shadow: 0px 4px 8px 0px rgba(16, 16, 16, 0.1);
+}
+.frame939m{
+    width: 710px;
+    height: Hug (37px)px;
+    gap: 0px;
+    display: flex;
+    justify-content: space-between;
+    opacity: 0px;
+}
+.frame773m{
+    width: Fill (710px)px;
+    height: Hug (230px)px;
+    display: flex;
+    gap: 40px;
+    opacity: 0px;
+    position: relative;
+}
+.frame939mtxt{
+ 
+    font-family: Poppins;
+font-size: 20px;
+font-weight: 600;
+line-height: 30px;
+letter-spacing: 0.03em;
+text-align: left;
+color: rgba(53, 53, 53, 1);
+
+}
+.frame641m{
+    width: Hug (171px)px;
+    height: Fixed (37px)px;
+    padding: 8px 24px 8px 24px;
+    gap: 8px;
+    border-radius: 10px;
+    border: 1px solid rgba(217, 217, 217, 1)
+}
+.frame641mtxt{
+    font-family: Poppins;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 21px;
+    text-align: center;
+    color: rgba(150, 149, 150, 1);
+}
+.grp290{
+    width: 230px;
+    height: 230px;
+    gap: 0px;
+    opacity: 0px;
+    position: absolute;
+    left: 156px;
+}
+.frame780{
+    position: absolute;
+    top: 54px;
+    left: 426px;
+    width: Hug (128px)px;
+    height: Hug (122px)px;
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+    opacity: 0px;
+}
+.frame326m{
+    width: Hug (96px)px;
+    height: Hug (18px)px;
+    display: flex;
+    gap: 6px;
+    opacity: 0px;
+}
+.elli7{
+    width: 12px;
+    height: 12px;
+    border-radius: 6px;
+    background: rgba(107, 18, 10, 1);
+}
+.frame326txt{
+    font-family: Poppins;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 18px;
+    letter-spacing: 0.03em;
+    text-align: center;
+    color: rgba(53, 53, 53, 1);
+}
+.elli8{
+    background: rgba(235, 93, 80, 1);
+
+}
+.elli9{
+    background: rgba(247, 166, 104, 1);
+
+}
+
+.elli10{
+    background: rgba(123, 184, 150, 1);
+
+}
+
+.elli11{
+    background: rgba(16, 115, 230, 1);
+
+}
+.fr326m{
+    position: absolute;
+    top: 93px;
+}
+

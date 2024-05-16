@@ -1,0 +1,113 @@
+.leftpanel{
+    position: absolute;
+    z-index: 2;
+    top: 0;
+    left: 0;
+    width: 280px;
+    height: 930px;
+}
+
+.grp296{
+    width: 280px;
+    height: 930px;
+
+}
+.rectangle1{
+    width: 280px;
+    height: 930px;
+    gap: 0px;
+    border-radius: 0px 36px 36px 0px;
+    opacity: 0px;
+    background: rgba(107, 18, 10, 1);
+}
+
+.frame590{
+    position: absolute;
+    width: Hug (58.33px)px;
+    height: Hug (14px)px;
+    top: 878px;
+    left: 110.67px;
+    gap: 6px;
+    rotate: -180 deg;
+}
+.frame643{
+    position: absolute;
+    width:  240px;
+    height: Hug (476px)px;
+    top: 146px;
+    left: 20px;
+    display: flex;
+    gap: 4px;
+
+}
+.ullist{
+    padding: 0;
+   list-style-type: none;
+   display: flex;
+   flex-direction: column;
+   margin: 0;
+}
+.frameli{
+    width: 208px;
+    height: 40px;
+    padding: 16px;
+    display: flex;
+    gap: 16px;
+    border-radius: 10px;
+    opacity: 0px;
+    
+}
+.framelicol{
+background-color: rgba(255, 255, 255, 0.12);
+}
+.licontent{
+    width: Hug (123px)px;
+    height: Hug (24px)px;
+    display: flex;
+    align-items: center;
+    gap: 16px;
+}
+.licontentimg{
+
+    width: 18px;
+    height: 18px;
+    gap: 0px;
+    opacity: 0px;
+}
+.fontwhite{
+    margin: 0;
+    font-family: Poppins;
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 21px;
+    letter-spacing: 0.03em;
+    text-align: left;
+    color: rgba(255, 255, 255, 1);
+}
+.liRR{
+    display: flex;
+    justify-content: space-between;
+}
+.arrwhite{
+    width: 18px;
+    height: 18px;
+    display: flex;
+    padding: 12px;
+    justify-content: center;
+    align-items: center; 
+    color: rgba(255, 255, 255, 1);
+}
+.arrowwhite{
+    width: 12.24px;
+    height: 12px;
+}
+.leftpaneline{
+    position: absolute;
+    width: 6px;
+    height: 291px;
+    top: 212px;
+    left: 269px;
+    border-radius: 10px;
+    background: rgba(255, 255, 255, 0.26);
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+}

@@ -1,0 +1,44 @@
+.dashboard{
+    width: 1920px;
+    height: 1734px;
+    background: rgba(241, 241, 241, 1);
+    position: relative;
+    overflow: hidden;
+   
+}
+.outletbox{
+    width: 1545px;
+    height: 1626.49px;
+    position: absolute;
+    top: 88px;
+    left: 330px;
+}
+.sideline{
+    position: absolute;
+    width: 10px;
+    height: 835px;
+    top: 75px;
+    left: 1890px;
+    gap: 0px;
+    border-radius: 10px 0px 0px 0px;
+    opacity: 0px;
+
+}
+.scrollbar{
+    position: relative;
+    width: 10px;
+    height: 835px;
+    border-radius: 10px;
+    opacity: 0px;
+    background: rgba(241, 241, 241, 1);
+    box-shadow: 0px 4px 8px 0px rgba(0, 0, 0, 0.25) inset;
+}
+.topscrollbar{
+    position: absolute;
+    top: 22.09px;
+    width: 10px;
+    height: 174.98px;
+    border-radius: 10px;
+    background: rgba(133, 101, 98, 1);
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+}
